@@ -1,0 +1,8 @@
+setup.py
+mohawkML/__init__.py
+mohawkML/module1.py
+mohawkML/module2.py
+mohawkML.egg-info/PKG-INFO
+mohawkML.egg-info/SOURCES.txt
+mohawkML.egg-info/dependency_links.txt
+mohawkML.egg-info/top_level.txt
